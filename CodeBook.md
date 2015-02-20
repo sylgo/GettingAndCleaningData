@@ -29,7 +29,8 @@ The script consists of the following steps:
 #Output
 
 tidy1.txt - 10299 obs. of 68 variables
-tidy1.txt - 180 obs. of 68 variables
+
+tidy2.txt - 180 obs. of 68 variables
 
 Variables:
 
