@@ -1,7 +1,9 @@
 # Data Source
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 Information about the data source files structure and variables is available in the README.txt contained in the data source zip file.
+
 The dataset includes the following files:
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
@@ -24,7 +26,7 @@ The script consists of the following steps:
 - create a tidy dataset by binding the subject, test, and train data write it to tidy1.txt
 - create a second tidy dataset grouped by subject and activity and write it to tidy2.txt
 
-#output
+#Output
 
 tidy1.txt - 10299 obs. of 68 variables
 tidy1.txt - 180 obs. of 68 variables
